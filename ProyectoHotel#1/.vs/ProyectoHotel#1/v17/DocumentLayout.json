@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\",
   "Documents": [
     {
@@ -15,10 +16,15 @@
       "RelativeMoniker": "D:0:0:{116C6CB0-6FD5-4611-81A3-257234054488}|ProyectoHotel#1\\ProyectoHotel#1.csproj|solutionrelative:proyectohotel#1\\proyectohotel#1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
+=======
+  "WorkspaceRootPath": "C:\\Users\\50683\\Documents\\GitHub\\ProyectoLenguajes-1\\ProyectoHotel#1\\",
+  "Documents": [],
+>>>>>>> f670e06b6537f72d96c693c4cdd3778d751e623f
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -65,6 +71,9 @@
           ]
         }
       ]
+=======
+      "DocumentGroups": []
+>>>>>>> f670e06b6537f72d96c693c4cdd3778d751e623f
     }
   ]
 }
