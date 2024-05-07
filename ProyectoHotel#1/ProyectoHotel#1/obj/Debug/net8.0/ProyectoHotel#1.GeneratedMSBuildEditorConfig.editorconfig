@@ -9,17 +9,12 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoHotel_1
 build_property.RootNamespace = ProyectoHotel_1
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Emily\Desktop\GITHUB\Lenguajes\ProyectoHotel#1\ProyectoHotel#1\
-=======
-build_property.ProjectDir = C:\Proyecto1Lenguajes\ProyectoLenguajes-1\ProyectoHotel#1\ProyectoHotel#1\
->>>>>>> e5be8c780465ccbdd28f3e98b4e5a52bce25f7ae
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\Emily\Desktop\GITHUB\Lenguajes\ProyectoHotel#1\ProyectoHotel#1
 build_property._RazorSourceGeneratorDebug = 
 
@@ -48,35 +43,5 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Emily/Desktop/GITHUB/Lenguajes/ProyectoHotel\#1/ProyectoHotel\#1/Views/Shared/_Layout.cshtml]
-=======
-build_property.MSBuildProjectDirectory = C:\Proyecto1Lenguajes\ProyectoLenguajes-1\ProyectoHotel#1\ProyectoHotel#1
-build_property._RazorSourceGeneratorDebug = 
-
-[C:/Proyecto1Lenguajes/ProyectoLenguajes-1/ProyectoHotel\#1/ProyectoHotel\#1/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Proyecto1Lenguajes/ProyectoLenguajes-1/ProyectoHotel\#1/ProyectoHotel\#1/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Proyecto1Lenguajes/ProyectoLenguajes-1/ProyectoHotel\#1/ProyectoHotel\#1/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Proyecto1Lenguajes/ProyectoLenguajes-1/ProyectoHotel\#1/ProyectoHotel\#1/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Proyecto1Lenguajes/ProyectoLenguajes-1/ProyectoHotel\#1/ProyectoHotel\#1/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Proyecto1Lenguajes/ProyectoLenguajes-1/ProyectoHotel\#1/ProyectoHotel\#1/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Proyecto1Lenguajes/ProyectoLenguajes-1/ProyectoHotel\#1/ProyectoHotel\#1/Views/Shared/_Layout.cshtml]
->>>>>>> e5be8c780465ccbdd28f3e98b4e5a52bce25f7ae
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-24wp5qij7f
