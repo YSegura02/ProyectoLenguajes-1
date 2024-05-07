@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yulis\\.nuget\\packages\\": {}
+    "C:\\Users\\Emily\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
+      "projectUniqueName": "C:\\Users\\Emily\\Desktop\\GITHUB\\Lenguajes\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
       "projectName": "ProyectoHotel#1",
-      "projectPath": "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
-      "packagesPath": "C:\\Users\\yulis\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\obj\\",
+      "projectPath": "C:\\Users\\Emily\\Desktop\\GITHUB\\Lenguajes\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
+      "packagesPath": "C:\\Users\\Emily\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Emily\\Desktop\\GITHUB\\Lenguajes\\ProyectoHotel#1\\ProyectoHotel#1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yulis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Emily\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
