@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj": {}
+    "C:\\Proyecto1Lenguajes\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj": {}
   },
   "projects": {
-    "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj": {
+    "C:\\Proyecto1Lenguajes\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
+        "projectUniqueName": "C:\\Proyecto1Lenguajes\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
         "projectName": "ProyectoHotel#1",
-        "projectPath": "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
-        "packagesPath": "C:\\Users\\yulis\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\obj\\",
+        "projectPath": "C:\\Proyecto1Lenguajes\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
+        "packagesPath": "C:\\Users\\glenp\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto1Lenguajes\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yulis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\glenp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
