@@ -10,7 +10,7 @@ namespace ProyectoHotel_1.Models
         //tipo del paquete 
         //todo incluido, alimentacion, hospedaje
         public string  tipoPaquete { get; set; }
-
+        [Required(ErrorMessage = "Debe seleccionar la prima")]
         //el adelando que hay que dar
         public  decimal prima { get; set; }
 
