@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj": {}
+    "C:\\Users\\50683\\Documents\\GitHub\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj": {}
   },
   "projects": {
-    "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj": {
+    "C:\\Users\\50683\\Documents\\GitHub\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
+        "projectUniqueName": "C:\\Users\\50683\\Documents\\GitHub\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
         "projectName": "ProyectoHotel#1",
-        "projectPath": "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
-        "packagesPath": "C:\\Users\\yulis\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\obj\\",
+        "projectPath": "C:\\Users\\50683\\Documents\\GitHub\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
+        "packagesPath": "C:\\Users\\50683\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\50683\\Documents\\GitHub\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\yulis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\50683\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,24 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+<<<<<<< HEAD
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+=======
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+>>>>>>> f6a04ddbef74864c5a4e50c7bfc41761b236faf6
+            }
+          },
           "imports": [
             "net461",
             "net462",
