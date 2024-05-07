@@ -1,10 +1,26 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Emily\\Desktop\\GITHUB\\Lenguajes\\ProyectoHotel#1\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{116C6CB0-6FD5-4611-81A3-257234054488}|ProyectoHotel#1\\ProyectoHotel#1.csproj|c:\\users\\emily\\desktop\\github\\lenguajes\\proyectohotel#1\\proyectohotel#1\\models\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{116C6CB0-6FD5-4611-81A3-257234054488}|ProyectoHotel#1\\ProyectoHotel#1.csproj|solutionrelative:proyectohotel#1\\models\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Proyecto1Lenguajes\\ProyectoLenguajes-1\\ProyectoHotel#1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116C6CB0-6FD5-4611-81A3-257234054488}|ProyectoHotel#1\\ProyectoHotel#1.csproj|c:\\proyecto1lenguajes\\proyectolenguajes-1\\proyectohotel#1\\proyectohotel#1\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116C6CB0-6FD5-4611-81A3-257234054488}|ProyectoHotel#1\\ProyectoHotel#1.csproj|solutionrelative:proyectohotel#1\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116C6CB0-6FD5-4611-81A3-257234054488}|ProyectoHotel#1\\ProyectoHotel#1.csproj|c:\\proyecto1lenguajes\\proyectolenguajes-1\\proyectohotel#1\\proyectohotel#1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116C6CB0-6FD5-4611-81A3-257234054488}|ProyectoHotel#1\\ProyectoHotel#1.csproj|solutionrelative:proyectohotel#1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116C6CB0-6FD5-4611-81A3-257234054488}|ProyectoHotel#1\\ProyectoHotel#1.csproj|c:\\proyecto1lenguajes\\proyectolenguajes-1\\proyectohotel#1\\proyectohotel#1\\proyectohotel#1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{116C6CB0-6FD5-4611-81A3-257234054488}|ProyectoHotel#1\\ProyectoHotel#1.csproj|solutionrelative:proyectohotel#1\\proyectohotel#1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+>>>>>>> e5be8c780465ccbdd28f3e98b4e5a52bce25f7ae
     }
   ],
   "DocumentGroupContainers": [
@@ -14,6 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -27,6 +44,50 @@
               "ViewState": "AQIAAAUAAAAAAAAAAAAUwA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T04:25:01.752Z",
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Proyecto1Lenguajes\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel#1\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Proyecto1Lenguajes\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ProyectoHotel#1\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:31:50.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProyectoHotel#1.csproj",
+              "DocumentMoniker": "C:\\Proyecto1Lenguajes\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
+              "RelativeDocumentMoniker": "ProyectoHotel#1\\ProyectoHotel#1.csproj",
+              "ToolTip": "C:\\Proyecto1Lenguajes\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\ProyectoHotel#1.csproj",
+              "RelativeToolTip": "ProyectoHotel#1\\ProyectoHotel#1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-07T04:27:57.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Proyecto1Lenguajes\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ProyectoHotel#1\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Proyecto1Lenguajes\\ProyectoLenguajes-1\\ProyectoHotel#1\\ProyectoHotel#1\\Models\\Cliente.cs",
+              "RelativeToolTip": "ProyectoHotel#1\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:21:43.532Z",
+>>>>>>> e5be8c780465ccbdd28f3e98b4e5a52bce25f7ae
               "EditorCaption": ""
             }
           ]
