@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj": {}
+    "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj": {
+    "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj",
+        "projectUniqueName": "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj",
         "projectName": "Proyecto_Hotel",
-        "projectPath": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj",
-        "packagesPath": "C:\\Users\\Emily\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\obj\\",
+        "projectPath": "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj",
+        "packagesPath": "C:\\Users\\glenp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Emily\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\glenp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
