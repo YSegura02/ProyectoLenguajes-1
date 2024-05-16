@@ -13,7 +13,7 @@ namespace Proyecto_Hotel.Models
         public decimal prima { get; set; }
 
         //el tiempo en el cual debe cubrirse
-        public int tiempo { get; set; }
+        public int CantidadMensualidades { get; set; }
 
         //el monto total del paquete 
         public decimal montoTotal { get; set; }

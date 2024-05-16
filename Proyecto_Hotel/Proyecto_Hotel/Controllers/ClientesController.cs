@@ -103,7 +103,7 @@ namespace Proyecto_Hotel.Controllers
 
        
 
-        [HttpPost]
+        
         public async Task<IActionResult> Index()
         {
 
