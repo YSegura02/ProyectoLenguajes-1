@@ -31,5 +31,6 @@ namespace Proyecto_Hotel.Models
         [StringLength(150)]
         public string email { get; set; }
 
+        public int Rol { get; set; }
     }
 }

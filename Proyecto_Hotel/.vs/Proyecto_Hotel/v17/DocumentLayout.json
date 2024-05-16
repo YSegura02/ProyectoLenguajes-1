@@ -1,22 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\",
+  "WorkspaceRootPath": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|c:\\users\\glenp\\onedrive\\escritorio\\documents\\github-portafolio\\proyectolenguajes-1\\proyecto_hotel\\proyecto_hotel\\controllers\\paquetescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\controllers\\paquetescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|c:\\users\\emily\\desktop\\github\\portafolio_git\\proyectolenguajes-1\\proyecto_hotel\\proyecto_hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\proyecto_hotel\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|c:\\users\\emily\\desktop\\github\\portafolio_git\\proyectolenguajes-1\\proyecto_hotel\\proyecto_hotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\proyecto_hotel\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\proyecto_hotel\\models\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\models\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|c:\\users\\emily\\desktop\\github\\portafolio_git\\proyectolenguajes-1\\proyecto_hotel\\proyecto_hotel\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\proyecto_hotel\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|c:\\users\\emily\\desktop\\github\\portafolio_git\\proyectolenguajes-1\\proyecto_hotel\\proyecto_hotel\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|c:\\users\\emily\\desktop\\github\\portafolio_git\\proyectolenguajes-1\\proyecto_hotel\\proyecto_hotel\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|c:\\users\\emily\\desktop\\github\\portafolio_git\\proyectolenguajes-1\\proyecto_hotel\\proyecto_hotel\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\proyecto_hotel\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|c:\\users\\emily\\desktop\\github\\portafolio_git\\proyectolenguajes-1\\proyecto_hotel\\proyecto_hotel\\models\\dbcontextcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\models\\dbcontextcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|c:\\users\\emily\\desktop\\github\\portafolio_git\\proyectolenguajes-1\\proyecto_hotel\\proyecto_hotel\\controllers\\paquetescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\controllers\\paquetescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\proyecto_hotel\\models\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED313F79-0575-4BDC-8E57-25D6F57338E3}|Proyecto_Hotel\\Proyecto_Hotel.csproj|solutionrelative:proyecto_hotel\\models\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,12 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -39,51 +63,145 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto_Hotel\\Program.cs",
+              "ToolTip": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Program.cs",
+              "RelativeToolTip": "Proyecto_Hotel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T04:17:12.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto_Hotel\\appsettings.json",
+              "ToolTip": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\appsettings.json",
+              "RelativeToolTip": "Proyecto_Hotel\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T04:15:12.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_Hotel\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "Proyecto_Hotel\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T04:14:25.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_Hotel\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "Proyecto_Hotel\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T04:13:43.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_Hotel\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Proyecto_Hotel\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T04:12:53.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_Hotel\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Proyecto_Hotel\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T04:11:57.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbContextCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Models\\DbContextCliente.cs",
+              "RelativeDocumentMoniker": "Proyecto_Hotel\\Models\\DbContextCliente.cs",
+              "ToolTip": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Models\\DbContextCliente.cs",
+              "RelativeToolTip": "Proyecto_Hotel\\Models\\DbContextCliente.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:58:42.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Proyecto_Hotel\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Proyecto_Hotel\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAADwv2cAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:22:18.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PaquetesController.cs",
-              "DocumentMoniker": "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Controllers\\PaquetesController.cs",
+              "DocumentMoniker": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Controllers\\PaquetesController.cs",
               "RelativeDocumentMoniker": "Proyecto_Hotel\\Controllers\\PaquetesController.cs",
-              "ToolTip": "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Controllers\\PaquetesController.cs",
+              "ToolTip": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Controllers\\PaquetesController.cs",
               "RelativeToolTip": "Proyecto_Hotel\\Controllers\\PaquetesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T21:22:40.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Proyecto_Hotel\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Proyecto_Hotel\\Controllers\\ClientesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T21:22:18.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Models\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Proyecto_Hotel\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Models\\Cliente.cs",
               "RelativeToolTip": "Proyecto_Hotel\\Models\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T21:19:35.895Z"
+              "WhenOpened": "2024-05-15T21:19:35.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Paquete.cs",
-              "DocumentMoniker": "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Models\\Paquete.cs",
+              "DocumentMoniker": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Models\\Paquete.cs",
               "RelativeDocumentMoniker": "Proyecto_Hotel\\Models\\Paquete.cs",
-              "ToolTip": "C:\\Users\\glenp\\OneDrive\\Escritorio\\Documents\\GITHUB-PORTAFOLIO\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Models\\Paquete.cs",
+              "ToolTip": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Models\\Paquete.cs",
               "RelativeToolTip": "Proyecto_Hotel\\Models\\Paquete.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T21:19:22.728Z"
+              "WhenOpened": "2024-05-15T21:19:22.728Z",
+              "EditorCaption": ""
             }
           ]
         }
