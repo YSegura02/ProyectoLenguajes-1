@@ -101,9 +101,57 @@ namespace Proyecto_Hotel.Controllers
         //---------------------------------------------------------------------------------------------------------
 
 
-        public IActionResult Index()
+       
+
+        [HttpPost]
+        public async Task<IActionResult> Index()
         {
-            return View();
+
+            var listado = await _context.clientes.ToListAsync();
+
+
+
+            return View(listado);//se envia 
         }
+
+        [HttpGet]
+
+        public async Task<IActionResult> Edit(int id)
+        {
+            //se envia los datos 
+            var temp = await _context.clientes.FirstOrDefaultAsync(t => t.Cedula == id);
+
+            return View(temp);
+
+        }
+
+        [HttpPost]
+
+        public async Task<IActionResult> Edit(int id, [Bind] Cliente pClientes)
+        {
+            if (id == pClientes.Cedula)
+            {
+                var temp = await _context.clientes.FirstOrDefaultAsync(r => r.Cedula == id);
+
+                if (temp == null)
+                {
+                    return RedirectToAction("Index");
+                }
+                else
+                {
+                    _context.clientes.Remove(temp);//se borra 
+                    _context.clientes.Add(pClientes);//se agrega 
+                    await _context.SaveChangesAsync();//se aplican cambios
+                    return RedirectToAction("Index");//se muestra la lista
+                }
+            }
+            else
+            {
+                return View();
+            }
+        }//fin del método
+
+
+
     }
 }
