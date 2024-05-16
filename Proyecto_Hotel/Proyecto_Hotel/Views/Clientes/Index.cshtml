@@ -61,11 +61,11 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Rol)
             </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
-            </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Cedula }, new { @class = "btn btn-secondary" }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Cedula }, new { @class = "btn btn-success" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Cedula }, new { @class = "btn btn-danger" })
+                </td>
         </tr>
 }
     </tbody>
