@@ -32,5 +32,17 @@ namespace Proyecto_Hotel.Models
         public string email { get; set; }
 
         public int Rol { get; set; }
+
+        public string appCedula
+        {
+            //no se sabe si esta correcto por el tipo de dato
+            get
+            {
+                return Proyecto_Hotel.Controllers.HomeController.cedulat.cedula.ToString();
+            }
+        }
+
+
+
     }
 }

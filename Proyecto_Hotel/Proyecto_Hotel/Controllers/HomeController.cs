@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Proyecto_Hotel.Models;
 using System.Diagnostics;
+using Newtonsoft.Json;
 
 namespace Proyecto_Hotel.Controllers
 {
@@ -8,9 +9,25 @@ namespace Proyecto_Hotel.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
+        private CedulaAPI cedulaApi = null;
+
+        private HttpClient clientCedula = null;
+
+        public static Cedula cedulat = null;
+
+
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
+
+            cedulaApi= new CedulaAPI();
+
+            clientCedula = cedulaApi.Iniciar();
+
+
+
+
+
         }
 
         public IActionResult Index()
@@ -28,5 +45,38 @@ namespace Proyecto_Hotel.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        Cliente clien = new Cliente();
+
+        
+
+
+        public async void ExtraerCedula()
+        {
+            try
+            {
+                HttpResponseMessage response = await clientCedula.GetAsync(clien.Cedula.ToString());
+                
+                if (response.IsSuccessStatusCode)
+                {
+
+
+                    var result = response.Content.ReadAsStringAsync().Result;
+                    cedulat = JsonConvert.DeserializeObject<Cedula>(result);
+
+                }
+
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+
+            }
+
+        }
+
+
     }
 }

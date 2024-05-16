@@ -19,7 +19,7 @@ namespace Proyecto_Hotel.Models
         {
             modelBuilder.Entity<Cliente>().HasData(new Cliente()
             {
-                Cedula = 1,
+                Cedula = 207840954,
                 TipoCedula = "209280528",
                 NombreCompleto = "",
                 Telefono = 83760911,
