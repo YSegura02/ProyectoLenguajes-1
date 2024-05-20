@@ -9,6 +9,9 @@ builder.Services.AddDbContext<Proyecto_Hotel.Models.DbContextCliente>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("StringConexion")));
 
 
+//OJO 
+builder.Services.AddHttpClient();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

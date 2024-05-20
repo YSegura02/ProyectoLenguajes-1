@@ -15,14 +15,13 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Cedula" class="control-label"></label>
-                <input asp-for="Cedula" class="form-control" />
+                <input asp-for="Cedula" class="form-control" id="Cedula" />
                 <span asp-validation-for="Cedula" class="text-danger"></span>
             </div>
 
             <div class="form-group">
                 <label asp-for="TipoCedula" class="control-label"></label>
-
-                <select asp-for="TipoCedula" clase="form-control mt-3">
+                <select asp-for="TipoCedula" class="form-control mt-3">
                     <option selected="selected" value="F">Fisica</option>
                     <option value="J">Juridica</option>
                     <option value="D">DIMEX</option>
@@ -32,27 +31,27 @@
 
             <div class="form-group">
                 <label asp-for="NombreCompleto" class="control-label"></label>
-                <input asp-for="NombreCompleto" class="form-control" />
+                <input asp-for="NombreCompleto" class="form-control" id="NombreCompleto" />
                 <span asp-validation-for="NombreCompleto" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Telefono" class="control-label"></label>
-                <input asp-for="Telefono" class="form-control" />
+                <input asp-for="Telefono" class="form-control" id="Telefono" />
                 <span asp-validation-for="Telefono" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Direccion" class="control-label"></label>
-                <input asp-for="Direccion" class="form-control" />
+                <input asp-for="Direccion" class="form-control" id="Direccion" />
                 <span asp-validation-for="Direccion" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="email" class="control-label"></label>
-                <input asp-for="email" class="form-control" />
+                <input asp-for="email" class="form-control" id="email" />
                 <span asp-validation-for="email" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Rol" class="control-label"></label>
-                <input asp-for="Rol" class="form-control" />
+                <input asp-for="Rol" class="form-control" id="Rol" />
                 <span asp-validation-for="Rol" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -67,5 +66,36 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#Cedula').change(function() {
+                var cedula = $(this).val();
+                if (cedula) {
+                    $.ajax({
+                        url: '@Url.Action("GetClienteData", "Clientes")',
+                        type: 'GET',
+                        data: { cedula: cedula },
+                        success: function(data) {
+                            if (data) {
+                                $("#TipoCedula".val(data.type
+                                $('#NombreCompleto').val(data.fullname);
+                                $('#Direccion').val(data.firstname2);
+                                
+                            } else {
+                                alert('Datos no encontrados');
+                            }
+                        },
+                        error: function() {
+                            alert('Error en la solicitud');
+                        }
+                    });
+                }
+            });
+        });
+    </script>
 }
+

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zGNTOlC6taA7ANnscyNVv0SXeAM0Kaah76WPILg4Cm4MH9zLR9+s4yUmXzhN7a6i1VIlT63jcs0Fp4c+idZnrg==",
+  "dgSpecHash": "877yo5IjdkHrEYC8IgM+w5uS1ZyC8G7VEth9lVvBou8o0dNlfyYyjIIXqgwZQolbnyImErGVjWaT5+MSmdmSrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj",
+  "projectFilePath": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emily\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Emily\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

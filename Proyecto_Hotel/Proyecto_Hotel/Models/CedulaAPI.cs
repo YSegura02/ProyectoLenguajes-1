@@ -6,7 +6,7 @@
         {
             var client = new HttpClient();
 
-            client.BaseAddress = new Uri("https://apis.gometa.org");
+            client.BaseAddress = new Uri("https://apis.gometa.org/cedulas/");
 
             return client;
         

@@ -10,10 +10,8 @@ namespace Proyecto_Hotel.Controllers
         private readonly ILogger<HomeController> _logger;
 
         private CedulaAPI cedulaApi = null;
-
         private HttpClient clientCedula = null;
-
-        public static Cedula cedulat = null;
+        public static Fisica datos = null;
 
 
         public HomeController(ILogger<HomeController> logger)
@@ -21,12 +19,7 @@ namespace Proyecto_Hotel.Controllers
             _logger = logger;
 
             cedulaApi= new CedulaAPI();
-
             clientCedula = cedulaApi.Iniciar();
-
-
-
-
 
         }
 
@@ -49,6 +42,7 @@ namespace Proyecto_Hotel.Controllers
         Cliente clien = new Cliente();
 
         
+        //------------------------------------------------------------------------
 
 
         public async void ExtraerCedula()
@@ -59,13 +53,10 @@ namespace Proyecto_Hotel.Controllers
                 
                 if (response.IsSuccessStatusCode)
                 {
-
-
                     var result = response.Content.ReadAsStringAsync().Result;
-                    cedulat = JsonConvert.DeserializeObject<Cedula>(result);
+                    datos = JsonConvert.DeserializeObject<Fisica>(result);
 
                 }
-
 
             }
             catch (Exception ex)
@@ -75,7 +66,7 @@ namespace Proyecto_Hotel.Controllers
 
             }
 
-        }
+        }//FIN DEL METODO EXTRAER CEDULA 
 
 
     }

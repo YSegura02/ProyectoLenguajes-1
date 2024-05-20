@@ -7844,11 +7844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj",
+      "projectUniqueName": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj",
       "projectName": "Proyecto_Hotel",
-      "projectPath": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj",
+      "projectPath": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\Proyecto_Hotel.csproj",
       "packagesPath": "C:\\Users\\Emily\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio_Git\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\obj\\",
+      "outputPath": "C:\\Users\\Emily\\Desktop\\GITHUB\\Portafolio\\ProyectoLenguajes-1\\Proyecto_Hotel\\Proyecto_Hotel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emily\\AppData\\Roaming\\NuGet\\NuGet.Config",

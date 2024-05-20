@@ -1,18 +1,24 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
 using Proyecto_Hotel.Models;
+using System.Net.Http;
 
 namespace Proyecto_Hotel.Controllers
+
 {
+    //SI
+
     public class ClientesController : Controller
     {
         private readonly DbContextCliente _context;
-        public ClientesController(DbContextCliente context)
+        private readonly HttpClient _httpClient;
+
+        public ClientesController(DbContextCliente context, HttpClient httpClient)
         {
-            _context= context;
-
+            _context = context;
+            
         }
-
 
 
         //---------------------------------------------------------------------------------------------------------
@@ -38,14 +44,46 @@ namespace Proyecto_Hotel.Controllers
             }
             else //Si hay datos
             {
-                pCliente.Cedula = 0; //Se calcula de forma automatica
 
-                _context.clientes.Add(pCliente); //Se agrega el cliente
-                await _context.SaveChangesAsync(); //Se guardan los cambios 
-                return RedirectToAction("Index"); //Se ubica al usuario dentro de la lista de clientes
+                //GetClienteData(pCliente.Cedula.ToString());
+
+                //pCliente.Cedula = 0;
+
+                if (ModelState.IsValid)
+                {
+                    //Se calcula de forma automatica
+
+                    _context.clientes.Add(pCliente); //Se agrega el cliente
+                    await _context.SaveChangesAsync(); //Se guardan los cambios 
+                    return RedirectToAction("Index"); //Se ubica al usuario dentro de la lista de clientes
+                }
+
+                return View(pCliente);
+
             } //Cierre del if
         } //Cierre del metodo create
 
+
+        //[HttpGet]
+        //public async Task<IActionResult> GetClienteData(string cedula)
+        //{
+        //    var response = await _httpClient.GetAsync($"fisica/{cedula}");
+        //    if (response.IsSuccessStatusCode)
+        //    {
+        //        var jsonResponse = await response.Content.ReadAsStringAsync();
+        //        var data = JsonConvert.DeserializeObject<Fisica>(jsonResponse);
+        //        var cliente = new Cliente
+        //        {
+        //            TipoCedula = data.type,
+        //            NombreCompleto = data.fullname,
+        //            Direccion = data.firstname2, // Asignar campo adecuado
+        //            email = "example@example.com", // Asignar campo adecuado
+                    
+        //        };
+        //        return Json(cliente);
+        //    }
+        //    return Json(null);
+        //}
 
         //---------------------------------------------------------------------------------------------------------
         //                                  DETAILS
